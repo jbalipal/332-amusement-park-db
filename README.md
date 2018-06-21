@@ -1,2 +1,2 @@
-# 332-amusement-park-db
-http://juliusa.sgedu.site/332project/ratingsListing.php
+# Visit the database!
+http://juliusa.sgedu.site/332project/parksListing.php
