@@ -1,0 +1,42 @@
+[07-Apr-2018 23:25:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/juliusa7/public_html/332project/parksListing.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/juliusa7/public_html/332project/parksListing.php on line 37
+[07-Apr-2018 23:25:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/juliusa7/public_html/332project/parksListing.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/juliusa7/public_html/332project/parksListing.php on line 37
+[07-Apr-2018 23:25:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/juliusa7/public_html/332project/parksListing.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/juliusa7/public_html/332project/parksListing.php on line 37
+[08-Apr-2018 00:17:42 CST6CDT] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juliusa7/public_html/332project/addparksrv.php on line 7
+[08-Apr-2018 00:18:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/juliusa7/public_html/332project/addparksrv.php on line 13
+[08-Apr-2018 00:20:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/juliusa7/public_html/332project/addparksrv.php on line 13
+[08-Apr-2018 00:23:58 CST6CDT] PHP Parse error:  syntax error, unexpected 'Error' (T_STRING) in /home/juliusa7/public_html/332project/addparksrv.php on line 13
+[09-Apr-2018 12:48:01 CST6CDT] PHP Parse error:  syntax error, unexpected 'deleterider' (T_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/ridersListing.php on line 23
+[09-Apr-2018 12:48:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'deleterider' (T_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/ridersListing.php on line 23
+[09-Apr-2018 12:48:29 CST6CDT] PHP Parse error:  syntax error, unexpected 'deleterider' (T_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/ridersListing.php on line 23
+[09-Apr-2018 13:37:00 CST6CDT] PHP Parse error:  syntax error, unexpected '"/></br>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/editrider.php on line 20
+[09-Apr-2018 13:47:11 CST6CDT] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home/juliusa7/public_html/332project/editridersrv.php on line 11
+[09-Apr-2018 13:49:21 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/juliusa7/public_html/332project/editridersrv.php on line 15
+[09-Apr-2018 19:09:05 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/parksListing.php on line 26
+[09-Apr-2018 19:09:20 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/parksListing.php on line 26
+[09-Apr-2018 19:09:33 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/parksListing.php on line 28
+[09-Apr-2018 19:12:09 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/parksListing.php on line 28
+[09-Apr-2018 19:12:19 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/parksListing.php on line 26
+[09-Apr-2018 19:12:20 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/parksListing.php on line 26
+[09-Apr-2018 19:14:50 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/parksListing.php on line 26
+[09-Apr-2018 19:14:52 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/parksListing.php on line 26
+[09-Apr-2018 19:15:20 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ')' in /home/juliusa7/public_html/332project/parksListing.php on line 15
+[09-Apr-2018 19:15:38 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/juliusa7/public_html/332project/parksListing.php on line 15
+[09-Apr-2018 19:15:54 CST6CDT] PHP Parse error:  syntax error, unexpected '"'>DEL</a> "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/juliusa7/public_html/332project/parksListing.php on line 26
+[09-Apr-2018 19:22:35 CST6CDT] PHP Parse error:  syntax error, unexpected '" and state = "' (T_CONSTANT_ENCAPSED_STRING) in /home/juliusa7/public_html/332project/delpark.php on line 10
+[09-Apr-2018 21:04:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/juliusa7/public_html/332project/editparksrv.php on line 16
+[09-Apr-2018 21:25:16 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juliusa7/public_html/332project/addmanufacturersrv.php on line 10
+[09-Apr-2018 21:25:47 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juliusa7/public_html/332project/addmanufacturersrv.php on line 10
+[09-Apr-2018 21:25:51 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juliusa7/public_html/332project/addmanufacturersrv.php on line 10
+[09-Apr-2018 21:26:21 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juliusa7/public_html/332project/addmanufacturersrv.php on line 10
+[09-Apr-2018 21:26:37 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juliusa7/public_html/332project/addmanufacturersrv.php on line 10
+[09-Apr-2018 21:27:45 CST6CDT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/juliusa7/public_html/332project/addmanufacturersrv.php on line 10
+[09-Apr-2018 23:01:12 CST6CDT] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/juliusa7/public_html/332project/addparksrv.php on line 12
